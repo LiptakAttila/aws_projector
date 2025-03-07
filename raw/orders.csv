@@ -1,0 +1,1003 @@
+order_id,customer_id,order_date,amount,status,payment_method
+1,15,2024-01-01,287.65,Delivered,PayPal
+2,36,2024-08-30,820.21,Shipped,Bank Transfer
+3,139,2024-10-01,659.14,Cancelled,Bank Transfer
+4,405,2024-02-06,86.7,Pending,Bank Transfer
+5,392,2024-01-12,617.08,Pending,Crypto
+6,117,2024-11-30,542.1,Shipped,Crypto
+7,207,2022-12-13,48.24,Shipped,PayPal
+8,342,2023-03-28,662.37,Shipped,Credit Card
+9,56,2024-10-24,742.65,Delivered,Crypto
+10,388,2024-12-29,70.11,Delivered,Credit Card
+11,125,2024-06-23,214.38,Delivered,Crypto
+12,271,2023-08-15,844.47,Pending,Crypto
+13,69,2024-05-03,45.19,Shipped,Crypto
+14,14,2023-04-30,537.09,Cancelled,Bank Transfer
+15,122,2023-03-03,152.96,Pending,PayPal
+16,254,2023-09-14,419.19,,Credit Card
+17,374,2022-08-10,334.09,Pending,Bank Transfer
+18,410,2022-02-22,232.6,Delivered,Crypto
+19,436,2024-11-09,617.24,Delivered,Credit Card
+20,450,2022-06-10,49.8,Shipped,PayPal
+21,221,2023-05-24,895.56,Delivered,Bank Transfer
+22,228,2023-08-19,828.34,Pending,Bank Transfer
+23,361,2023-04-10,827.32,Cancelled,Crypto
+24,331,2024-06-12,690.9,Delivered,Bank Transfer
+25,435,2024-10-13,83.88,Delivered,Crypto
+26,291,2022-08-27,75.18,Cancelled,Crypto
+27,110,2022-06-07,997.05,Shipped,Credit Card
+28,438,2023-06-09,551.11,Cancelled,PayPal
+29,83,2024-09-18,994.18,Shipped,Crypto
+30,287,2024-10-06,655.67,Delivered,Crypto
+31,12,2022-05-19,550.27,Delivered,Bank Transfer
+32,27,2024-05-27,798.27,Cancelled,Credit Card
+33,453,2024-05-02,91.46,Shipped,PayPal
+34,426,2022-04-06,819.57,Cancelled,Credit Card
+35,89,2024-06-13,894.29,Pending,Crypto
+36,70,2024-01-28,345.97,Delivered,PayPal
+37,140,2023-07-21,934.47,Delivered,PayPal
+38,471,2024-12-15,487.14,Delivered,Credit Card
+39,357,2023-03-01,886.66,Cancelled,PayPal
+40,38,2023-11-20,723.02,Cancelled,PayPal
+41,218,2023-09-17,495.92,Shipped,Bank Transfer
+42,200,2024-09-12,622.32,Cancelled,PayPal
+43,483,2024-12-20,803.32,Cancelled,PayPal
+44,450,2025-02-02,220.57,Cancelled,Credit Card
+45,276,2024-11-27,569.26,Pending,PayPal
+46,310,2025-01-28,512.58,Delivered,Crypto
+47,68,2022-11-14,530.68,Delivered,Credit Card
+48,30,2025-01-28,495.01,Delivered,Crypto
+49,189,2024-04-09,320.99,Delivered,PayPal
+50,302,2023-02-22,259.48,Cancelled,Bank Transfer
+51,376,2022-08-23,149.57,Pending,
+52,168,2023-08-15,105.34,Cancelled,Bank Transfer
+53,439,2024-03-15,902.1,Pending,PayPal
+54,415,2023-07-02,346.02,Cancelled,Credit Card
+55,363,2023-07-11,604.87,Cancelled,PayPal
+56,46,2024-09-08,523.25,Pending,Bank Transfer
+57,332,2023-02-14,473.48,Delivered,PayPal
+58,219,2023-12-05,514.26,Pending,Bank Transfer
+59,365,2024-07-10,96.69,Pending,Crypto
+60,156,2024-04-21,332.91,Delivered,Bank Transfer
+61,416,2024-05-04,858.9,Delivered,PayPal
+62,458,2022-08-11,567.0,Pending,Bank Transfer
+63,357,2024-09-23,73.91,Shipped,Bank Transfer
+64,231,2023-06-03,357.11,Pending,Credit Card
+65,335,2023-06-19,731.28,Delivered,Credit Card
+66,219,2024-01-08,451.01,Pending,Crypto
+67,78,2022-12-25,202.44,Delivered,PayPal
+68,320,2022-02-27,817.18,Cancelled,Credit Card
+69,483,2022-04-30,363.31,Cancelled,Crypto
+70,150,2022-08-28,431.9,Delivered,Credit Card
+71,227,2023-09-24,929.22,Delivered,Credit Card
+72,323,2023-04-09,42.19,Delivered,PayPal
+73,285,2023-11-17,15.85,Pending,Crypto
+74,37,2024-05-03,486.27,Delivered,Bank Transfer
+75,119,2025-01-28,758.99,Cancelled,PayPal
+76,285,2022-12-16,96.76,Pending,PayPal
+77,365,2023-06-17,252.91,Pending,Crypto
+78,58,2024-06-19,499.26,Delivered,Bank Transfer
+79,394,2022-03-09,735.59,Cancelled,Bank Transfer
+80,131,2022-07-13,108.17,Cancelled,Bank Transfer
+81,266,2022-06-27,741.82,Shipped,Crypto
+82,343,2022-05-16,201.52,Delivered,Crypto
+83,334,2024-05-26,865.03,Cancelled,PayPal
+84,375,2024-01-17,170.42,Pending,Crypto
+85,205,2022-04-09,714.59,Delivered,Credit Card
+86,286,2022-06-27,335.9,Delivered,Crypto
+87,22,2022-12-17,561.91,Delivered,Crypto
+88,318,2024-10-29,578.55,Cancelled,Crypto
+89,150,2023-08-20,878.42,Pending,Bank Transfer
+90,376,2023-09-07,172.5,Pending,PayPal
+91,271,2024-08-24,990.93,Delivered,PayPal
+92,408,2023-01-16,840.73,Shipped,Credit Card
+93,319,2022-12-03,814.42,Pending,PayPal
+94,393,2023-07-27,48.51,Delivered,Crypto
+95,281,2022-04-03,400.48,Shipped,Credit Card
+96,188,2022-04-14,687.65,Pending,Crypto
+97,81,2023-09-03,37.57,Delivered,Crypto
+98,171,2024-07-08,367.81,Shipped,Bank Transfer
+99,101,2024-12-21,220.27,Shipped,PayPal
+100,98,2022-06-01,837.04,Delivered,Crypto
+101,370,2024-08-10,113.0,Pending,Bank Transfer
+102,175,2024-11-03,777.92,Delivered,PayPal
+103,83,2024-07-04,21.53,Pending,PayPal
+104,240,2023-10-09,259.95,Cancelled,Bank Transfer
+105,155,2024-12-23,686.38,Pending,PayPal
+106,202,2023-06-07,518.36,Cancelled,Bank Transfer
+107,475,2022-10-01,946.69,Cancelled,Bank Transfer
+108,404,2022-05-17,787.46,Shipped,Bank Transfer
+109,57,2024-02-14,359.05,Pending,Bank Transfer
+110,411,2023-09-15,791.23,Shipped,Bank Transfer
+111,118,2024-01-13,527.04,Cancelled,Credit Card
+112,487,2024-03-27,641.67,Cancelled,Crypto
+113,9,2023-06-30,960.62,Pending,Credit Card
+114,188,2023-03-22,853.56,Pending,Crypto
+115,418,2025-01-31,96.6,Delivered,Crypto
+116,410,2024-01-25,472.93,Shipped,PayPal
+117,303,2023-02-04,26.93,Pending,Credit Card
+118,429,2023-07-06,797.01,Shipped,Credit Card
+119,245,2022-11-27,13.32,Pending,Crypto
+120,88,2022-09-15,602.0,Cancelled,Credit Card
+121,246,2024-09-21,189.91,Shipped,Credit Card
+122,298,2022-07-09,341.48,Delivered,Bank Transfer
+123,442,2025-01-05,814.4,Shipped,PayPal
+124,119,2024-07-19,886.45,Pending,Bank Transfer
+125,196,2023-08-14,927.29,Pending,Crypto
+126,314,2024-12-02,118.6,Cancelled,Crypto
+127,303,2022-03-25,493.9,Shipped,Credit Card
+128,143,2022-04-25,857.92,Cancelled,Bank Transfer
+129,286,2023-01-22,262.57,Cancelled,PayPal
+130,427,2025-01-11,887.04,Delivered,Credit Card
+131,104,2024-11-12,227.51,Cancelled,Credit Card
+132,296,2022-10-14,211.01,Delivered,Credit Card
+133,148,2022-05-27,610.96,Shipped,Bank Transfer
+134,441,2023-11-01,331.98,Cancelled,Crypto
+135,103,2022-06-16,106.44,Delivered,Bank Transfer
+136,73,2023-01-07,658.37,Cancelled,PayPal
+137,18,2022-11-11,786.55,Cancelled,Crypto
+138,156,2023-09-09,89.26,Shipped,Bank Transfer
+139,396,2024-10-29,177.52,Pending,Credit Card
+140,335,2023-06-20,307.53,Delivered,Bank Transfer
+141,156,2023-03-11,760.24,Delivered,Bank Transfer
+142,278,2022-09-20,19.08,Delivered,Bank Transfer
+143,5,2022-03-31,366.54,Shipped,Credit Card
+144,481,2023-08-27,229.18,Pending,PayPal
+145,334,2024-04-08,196.84,Shipped,Crypto
+146,194,2024-06-01,619.0,Shipped,Crypto
+147,404,2023-04-29,950.13,Pending,Bank Transfer
+148,151,2023-04-09,488.17,Cancelled,PayPal
+149,36,2025-01-05,600.02,Shipped,Bank Transfer
+150,391,2023-05-03,234.14,Cancelled,PayPal
+151,418,2024-05-31,393.61,Delivered,Credit Card
+152,171,2024-04-27,775.98,Delivered,Crypto
+153,227,2023-11-26,947.01,Delivered,PayPal
+154,498,2023-06-19,496.14,Shipped,Bank Transfer
+155,441,2023-01-09,299.31,Delivered,Bank Transfer
+156,75,2022-02-15,951.45,Pending,PayPal
+157,263,2023-11-26,92.64,Cancelled,Bank Transfer
+158,276,2025-01-03,599.4,Cancelled,PayPal
+159,226,2024-02-11,746.89,Cancelled,Bank Transfer
+160,266,2023-08-10,68.76,Pending,Crypto
+161,380,2024-01-24,814.57,Shipped,Crypto
+162,119,2023-06-18,744.16,Cancelled,Credit Card
+163,56,2022-09-15,913.14,Pending,PayPal
+164,89,2022-09-29,396.6,Delivered,Credit Card
+165,147,2025-01-25,75.43,Delivered,Bank Transfer
+166,454,2025-01-22,627.97,Cancelled,PayPal
+167,108,2024-03-09,388.58,Shipped,Crypto
+168,461,2022-08-02,145.71,Cancelled,Credit Card
+169,88,2024-09-19,277.77,Delivered,Crypto
+170,470,2022-03-01,210.83,Pending,PayPal
+171,460,2023-04-22,625.24,Shipped,Bank Transfer
+172,242,2022-11-06,195.67,Cancelled,Bank Transfer
+173,154,2023-04-09,869.3,Delivered,Crypto
+174,454,2025-01-22,74.31,Delivered,Bank Transfer
+175,243,2022-12-07,542.55,Shipped,Bank Transfer
+176,212,2023-11-28,327.51,Cancelled,PayPal
+177,371,2024-12-23,59.96,Delivered,Bank Transfer
+178,459,2023-12-17,694.82,Delivered,Bank Transfer
+179,318,2023-05-04,853.21,Pending,Bank Transfer
+180,185,2024-06-17,59.58,Cancelled,Crypto
+181,105,2024-07-01,711.06,Cancelled,Crypto
+182,223,2022-06-27,937.26,Pending,PayPal
+183,442,2024-06-13,331.19,Pending,Crypto
+184,140,2022-03-08,596.37,Cancelled,Bank Transfer
+185,206,2024-03-17,906.37,Delivered,Credit Card
+186,281,2025-01-05,731.53,Shipped,Credit Card
+187,302,2024-01-14,710.36,Pending,Credit Card
+188,378,2023-04-21,914.45,Cancelled,Crypto
+189,474,2022-06-16,616.39,Shipped,PayPal
+190,363,2022-10-15,175.83,Shipped,PayPal
+191,18,2023-02-20,197.07,Shipped,Bank Transfer
+192,75,2023-10-08,177.18,Delivered,Credit Card
+193,468,2024-03-10,151.83,Shipped,Bank Transfer
+194,86,2022-03-30,844.89,Shipped,Credit Card
+195,265,2024-08-05,418.6,Cancelled,Bank Transfer
+196,390,2022-11-30,213.54,Shipped,Crypto
+197,285,2024-04-11,956.23,Delivered,Bank Transfer
+198,100,2023-08-21,580.01,Pending,Bank Transfer
+199,418,2024-02-07,137.18,Shipped,Credit Card
+200,205,2025-01-02,910.04,Delivered,Bank Transfer
+201,367,2022-11-23,787.61,Pending,Crypto
+202,407,2024-12-07,911.33,Delivered,Bank Transfer
+203,394,2024-04-01,454.88,Pending,PayPal
+204,295,2022-07-21,861.81,Shipped,Bank Transfer
+205,63,2023-03-07,174.54,Shipped,Credit Card
+206,334,2024-03-26,634.78,Cancelled,PayPal
+207,373,2024-07-14,298.61,Shipped,Crypto
+208,109,2022-09-23,629.01,Cancelled,Credit Card
+209,155,2025-01-15,489.88,Cancelled,Bank Transfer
+210,110,2022-08-06,155.51,Pending,Crypto
+211,208,2024-04-01,831.53,Shipped,PayPal
+212,187,2022-11-19,316.5,Cancelled,Crypto
+213,320,2024-11-21,840.0,Delivered,Credit Card
+214,190,2023-02-17,946.66,Pending,PayPal
+215,328,2023-06-21,485.95,Shipped,Crypto
+216,220,2023-05-31,773.8,Shipped,PayPal
+217,439,2022-07-08,900.57,Cancelled,Credit Card
+218,141,2023-03-23,652.12,Shipped,Bank Transfer
+219,120,2023-11-06,126.21,Delivered,Bank Transfer
+220,399,2023-01-12,32.52,Shipped,Crypto
+221,215,2024-10-27,256.02,Cancelled,Bank Transfer
+222,17,2022-08-18,446.27,Cancelled,Crypto
+223,35,2024-12-16,221.43,Delivered,Crypto
+224,299,2024-09-10,866.54,Cancelled,PayPal
+225,141,2022-10-20,495.5,Shipped,PayPal
+226,189,2022-12-18,115.4,Pending,Credit Card
+227,284,2023-03-12,177.38,Cancelled,Bank Transfer
+228,343,2024-12-30,592.4,Shipped,PayPal
+229,482,2024-12-24,981.13,Shipped,Bank Transfer
+230,23,2022-12-06,933.25,Shipped,Credit Card
+231,31,2022-09-24,254.74,Pending,Credit Card
+232,96,2022-03-31,990.06,Delivered,Crypto
+233,436,2023-06-23,724.58,Shipped,Credit Card
+234,218,2023-07-31,260.0,Delivered,Crypto
+235,92,2024-06-14,983.55,Shipped,Crypto
+236,398,2024-04-09,844.65,Delivered,Bank Transfer
+237,22,2022-03-02,775.43,Cancelled,PayPal
+238,147,2023-03-30,335.14,Shipped,Bank Transfer
+239,437,2023-06-27,856.77,Shipped,Crypto
+240,146,2024-07-11,18.02,Pending,Crypto
+241,466,2022-06-16,350.93,Shipped,Bank Transfer
+242,3,2023-09-13,896.23,Cancelled,Crypto
+243,82,2022-04-22,60.32,Cancelled,Bank Transfer
+244,339,2022-12-13,36.98,Pending,Credit Card
+245,7,2023-04-02,794.27,Cancelled,Bank Transfer
+246,148,2023-05-24,619.19,Cancelled,PayPal
+247,27,2022-09-17,169.58,Shipped,Crypto
+248,402,2024-01-02,989.74,Shipped,Crypto
+249,214,2022-08-16,623.44,Shipped,Credit Card
+250,270,2023-04-30,130.11,Delivered,PayPal
+251,93,2022-11-16,957.36,Delivered,Credit Card
+252,356,2022-10-30,569.5,Cancelled,Crypto
+253,263,2022-03-20,967.49,Shipped,PayPal
+254,378,2024-04-26,135.03,Pending,PayPal
+255,218,2023-12-17,960.25,Pending,Crypto
+256,427,2024-02-28,494.27,Delivered,Credit Card
+257,221,2023-11-21,973.6,Shipped,Credit Card
+258,202,2023-11-19,230.35,Delivered,Bank Transfer
+259,423,2024-08-04,886.38,Pending,PayPal
+260,225,2024-10-31,185.83,Pending,Credit Card
+261,268,2023-07-26,436.49,Pending,Bank Transfer
+262,156,2024-02-04,169.31,Cancelled,Credit Card
+263,333,2024-08-23,993.25,Pending,Credit Card
+264,98,2022-06-30,151.01,Shipped,PayPal
+265,353,2022-04-24,724.24,Shipped,Crypto
+266,121,2023-08-18,600.4,Pending,Bank Transfer
+267,265,2023-06-15,396.22,Pending,Crypto
+268,458,2022-04-26,273.49,Shipped,PayPal
+269,451,2023-01-12,996.76,Shipped,Crypto
+270,448,2023-02-18,107.63,Cancelled,Crypto
+271,359,2022-05-30,182.52,Delivered,Bank Transfer
+272,499,2022-05-21,636.69,Shipped,Credit Card
+273,86,2022-09-17,517.99,Cancelled,PayPal
+274,111,2022-10-29,121.8,Cancelled,Crypto
+275,90,2022-07-09,641.38,Shipped,PayPal
+276,306,2023-12-13,76.28,Pending,PayPal
+277,175,2023-03-07,621.81,Pending,Crypto
+278,143,2025-01-14,307.35,Shipped,Credit Card
+279,152,2022-07-07,668.5,Pending,PayPal
+280,52,2023-01-15,423.61,Pending,Bank Transfer
+281,395,2023-02-27,105.64,Pending,Bank Transfer
+282,272,2022-07-02,865.94,Delivered,PayPal
+283,78,2025-01-06,456.33,Cancelled,PayPal
+284,170,2023-04-02,332.58,Pending,Crypto
+285,456,2024-04-27,219.82,Delivered,PayPal
+286,304,2022-10-07,56.57,Cancelled,PayPal
+287,260,2022-11-15,646.81,Cancelled,Bank Transfer
+288,148,2022-10-28,465.38,Pending,PayPal
+289,226,2023-09-14,865.89,Shipped,Bank Transfer
+290,460,2024-01-25,191.57,Delivered,Credit Card
+291,441,2024-09-08,192.55,Delivered,Credit Card
+292,92,2023-10-05,116.76,Shipped,Credit Card
+293,376,2022-09-02,300.73,Shipped,Credit Card
+294,336,2023-05-31,650.85,Cancelled,Crypto
+295,40,2024-12-24,398.06,Cancelled,Crypto
+296,104,2025-01-21,311.77,Delivered,Crypto
+297,344,2022-06-25,587.74,Pending,Crypto
+298,19,2023-05-26,932.16,Shipped,Crypto
+299,404,2024-12-12,627.41,Pending,Bank Transfer
+300,194,2024-10-15,209.05,Cancelled,Crypto
+301,78,2024-11-01,543.57,Shipped,Credit Card
+302,73,2023-11-06,291.06,Shipped,Bank Transfer
+303,300,2022-04-04,938.47,Shipped,PayPal
+304,2,2023-11-01,516.14,Delivered,Crypto
+305,364,2022-09-13,464.66,Cancelled,Crypto
+306,85,2022-04-21,888.22,Delivered,Credit Card
+307,78,2024-02-20,566.35,Pending,Credit Card
+308,94,2024-08-04,925.04,Pending,Credit Card
+309,163,2024-09-27,947.44,Shipped,Crypto
+310,115,2022-12-16,734.88,Shipped,Credit Card
+311,292,2025-02-10,862.74,Pending,Crypto
+312,26,2023-04-21,801.86,Shipped,Crypto
+313,187,2023-11-23,823.28,Delivered,Bank Transfer
+314,436,2024-10-05,947.33,Cancelled,Credit Card
+315,320,2024-10-14,645.57,Delivered,Bank Transfer
+316,402,2022-07-01,681.28,Cancelled,Credit Card
+317,485,2022-12-24,163.96,Cancelled,Bank Transfer
+318,147,2025-02-04,494.49,Shipped,Crypto
+319,217,2024-06-08,759.05,Shipped,Credit Card
+320,50,2023-10-11,959.61,Shipped,Crypto
+321,78,2023-05-01,755.76,Delivered,Bank Transfer
+322,426,2023-04-15,338.28,Delivered,Credit Card
+323,30,2022-10-14,979.72,Cancelled,Bank Transfer
+324,289,2022-10-24,63.41,Cancelled,Credit Card
+325,364,2023-10-05,739.65,Shipped,Credit Card
+326,175,2024-03-24,103.56,Delivered,Crypto
+327,121,2023-02-17,234.96,Shipped,PayPal
+328,479,2022-04-15,236.24,Pending,Crypto
+329,440,2023-07-17,142.69,Delivered,PayPal
+330,86,2024-01-11,697.08,Shipped,Credit Card
+331,156,2023-06-19,380.64,Shipped,Credit Card
+332,373,2022-09-06,331.26,Shipped,Credit Card
+333,108,2022-06-24,95.26,Delivered,Credit Card
+334,313,2024-07-20,296.8,Delivered,Bank Transfer
+335,77,2023-09-18,830.26,Pending,PayPal
+336,315,2022-10-18,711.44,Pending,Bank Transfer
+337,12,2023-02-09,253.26,Delivered,Bank Transfer
+338,448,2023-02-02,265.54,Shipped,Bank Transfer
+339,429,2022-09-20,941.23,Pending,Credit Card
+340,217,2024-11-12,346.56,Shipped,Crypto
+341,28,2024-04-28,739.66,Pending,PayPal
+342,485,2022-10-12,269.92,Shipped,PayPal
+343,353,2025-01-23,985.97,Cancelled,PayPal
+344,243,2024-06-21,968.35,Shipped,Bank Transfer
+345,197,2022-10-26,469.03,Pending,PayPal
+346,113,2023-08-02,334.97,Shipped,Bank Transfer
+347,495,2022-04-29,191.87,Pending,Bank Transfer
+348,360,2023-06-14,365.99,Cancelled,Crypto
+349,253,2024-01-15,487.4,Pending,Bank Transfer
+350,312,2023-07-05,776.41,Delivered,Bank Transfer
+351,158,2024-07-10,613.38,Pending,Bank Transfer
+352,328,2023-12-21,218.48,Pending,PayPal
+353,490,2024-11-05,624.07,Cancelled,Bank Transfer
+354,467,2023-02-19,746.75,Cancelled,Crypto
+355,91,2024-04-26,242.81,Pending,Crypto
+356,474,2024-03-04,130.96,Pending,Bank Transfer
+357,87,2023-04-08,220.86,Shipped,Crypto
+358,54,2023-07-20,821.61,Pending,Bank Transfer
+359,2,2024-04-19,272.98,Delivered,Credit Card
+360,10,2024-10-19,787.1,Delivered,Bank Transfer
+361,67,2023-11-13,180.4,Shipped,Crypto
+362,70,2023-08-23,171.88,Cancelled,Credit Card
+363,495,2024-12-02,797.42,Delivered,Credit Card
+364,125,2023-10-09,985.97,Cancelled,Bank Transfer
+365,313,2025-02-10,803.69,Cancelled,PayPal
+366,18,2024-05-16,112.85,Pending,Bank Transfer
+367,5,2023-11-13,634.14,Delivered,Crypto
+368,104,2023-05-28,953.15,Cancelled,Credit Card
+369,374,2024-06-30,177.15,Pending,PayPal
+370,403,2022-02-14,351.13,Delivered,Bank Transfer
+371,343,2024-11-08,751.8,Shipped,Credit Card
+372,126,2023-03-29,819.01,Delivered,Bank Transfer
+373,453,2024-09-26,963.56,Cancelled,Credit Card
+374,447,2024-10-16,483.37,Pending,PayPal
+375,161,2022-10-10,413.3,Cancelled,Bank Transfer
+376,100,2022-11-25,627.95,Shipped,PayPal
+377,339,2022-12-22,914.47,Pending,Credit Card
+378,208,2024-06-10,384.7,Pending,Crypto
+379,344,2024-07-14,448.56,Pending,PayPal
+380,38,2023-02-23,682.62,Delivered,Bank Transfer
+381,270,2023-07-03,714.69,Cancelled,Crypto
+382,198,2022-07-12,892.46,Cancelled,Credit Card
+383,135,2023-10-18,909.7,Cancelled,PayPal
+384,216,2023-11-27,644.16,Shipped,PayPal
+385,103,2024-07-22,813.99,Delivered,Credit Card
+386,464,2023-10-08,227.02,Pending,PayPal
+387,10,2022-12-21,658.88,Delivered,Crypto
+388,22,2024-06-14,344.88,Cancelled,Credit Card
+389,395,2022-05-28,338.58,Cancelled,Crypto
+390,113,2023-11-25,108.31,Delivered,Credit Card
+391,148,2022-09-29,324.84,Delivered,PayPal
+392,17,2024-11-04,594.62,Delivered,Credit Card
+393,145,2024-05-12,183.33,Pending,Bank Transfer
+394,403,2024-12-05,53.35,Delivered,PayPal
+395,330,2022-03-30,851.06,Delivered,Bank Transfer
+396,376,2024-03-17,283.67,Shipped,Crypto
+397,187,2024-10-02,84.58,Delivered,Crypto
+398,108,2023-07-30,576.71,Shipped,Bank Transfer
+399,373,2023-08-12,395.35,Pending,PayPal
+400,27,2023-12-01,237.14,Shipped,Bank Transfer
+401,422,2023-06-02,169.51,Cancelled,PayPal
+402,229,2023-09-04,867.59,Delivered,Credit Card
+403,96,2024-11-07,852.51,Shipped,PayPal
+404,147,2022-02-28,207.31,Delivered,PayPal
+405,414,2023-02-24,462.81,Cancelled,Bank Transfer
+406,6,2023-11-16,648.43,Shipped,Bank Transfer
+407,366,2022-06-01,624.6,Delivered,Credit Card
+408,219,2022-09-21,26.26,Cancelled,PayPal
+409,167,2023-09-20,272.92,Pending,Crypto
+410,214,2022-06-11,853.96,Delivered,Credit Card
+411,298,2024-09-15,984.78,Shipped,Credit Card
+412,439,2025-02-02,964.04,Cancelled,Bank Transfer
+413,396,2023-06-30,696.75,Delivered,PayPal
+414,411,2023-03-31,788.05,Shipped,Bank Transfer
+415,104,2024-03-02,149.96,Cancelled,Crypto
+416,336,2022-06-14,414.73,Delivered,Bank Transfer
+417,61,2022-08-08,327.55,Shipped,PayPal
+418,89,2023-10-22,283.74,Shipped,Bank Transfer
+419,400,2022-09-09,536.42,Delivered,Bank Transfer
+420,1,2025-01-03,762.44,Cancelled,PayPal
+421,478,2024-01-02,185.83,Pending,Bank Transfer
+422,484,2022-12-19,167.64,Pending,Credit Card
+423,213,2024-10-23,937.3,Cancelled,Crypto
+424,139,2022-04-05,452.27,Cancelled,Bank Transfer
+425,83,2024-08-07,580.65,Pending,Crypto
+426,318,2022-02-18,133.15,Pending,PayPal
+427,147,2022-06-02,289.83,Pending,Credit Card
+428,48,2022-03-26,546.78,Cancelled,Credit Card
+429,188,2023-01-09,206.54,Pending,PayPal
+430,170,2022-12-28,785.93,Cancelled,PayPal
+431,97,2024-12-17,857.28,Cancelled,Credit Card
+432,111,2022-11-18,457.43,Shipped,PayPal
+433,484,2023-06-29,551.1,Cancelled,Credit Card
+434,21,2023-03-12,997.31,Pending,Credit Card
+435,495,2023-07-13,216.64,Pending,Bank Transfer
+436,177,2022-09-04,346.97,Shipped,Credit Card
+437,9,2022-08-19,69.66,Delivered,Bank Transfer
+438,330,2023-05-08,772.08,Pending,PayPal
+439,384,2024-04-05,150.34,Shipped,Credit Card
+440,283,2023-10-15,290.56,Delivered,Credit Card
+441,51,2024-11-21,510.57,Shipped,Crypto
+442,209,2022-03-12,954.96,Cancelled,PayPal
+443,403,2023-09-17,526.48,Cancelled,Bank Transfer
+444,382,2022-03-06,144.89,Cancelled,Bank Transfer
+445,388,2022-07-23,753.07,Delivered,Credit Card
+446,432,2023-12-31,543.94,Cancelled,Crypto
+447,21,2024-05-13,223.45,Delivered,Bank Transfer
+448,51,2022-03-20,109.86,Cancelled,Crypto
+449,196,2022-06-02,757.48,Pending,Crypto
+450,323,2023-10-09,900.74,Pending,PayPal
+451,262,2024-07-03,661.68,Delivered,Crypto
+452,324,2022-06-13,727.14,Shipped,Credit Card
+453,465,2023-04-14,771.24,Delivered,Bank Transfer
+454,440,2022-04-29,124.27,Pending,Credit Card
+455,68,2025-01-03,120.81,Shipped,PayPal
+456,352,2024-07-23,868.46,Cancelled,Credit Card
+457,414,2023-02-11,91.88,Cancelled,Credit Card
+458,141,2024-07-27,142.51,Shipped,Crypto
+459,229,2024-10-09,833.98,Pending,Bank Transfer
+460,78,2023-02-19,152.51,Shipped,Crypto
+461,491,2024-09-03,153.51,Pending,Bank Transfer
+462,369,2023-03-08,232.46,Cancelled,Bank Transfer
+463,195,2024-06-17,534.79,Delivered,PayPal
+464,88,2023-05-27,247.96,Delivered,Crypto
+465,79,2024-07-05,848.5,Delivered,PayPal
+466,137,2023-10-18,429.71,Pending,Crypto
+467,184,2022-06-11,196.42,Pending,Crypto
+468,194,2023-04-05,900.71,Delivered,Bank Transfer
+469,414,2022-07-16,867.82,Pending,Bank Transfer
+470,495,2022-12-18,649.38,Pending,Credit Card
+471,388,2023-12-07,326.01,Cancelled,Credit Card
+472,51,2023-02-10,495.92,Delivered,Crypto
+473,317,2024-07-04,414.73,Cancelled,Credit Card
+474,196,2024-01-11,495.32,Shipped,PayPal
+475,63,2022-11-29,100.7,Cancelled,Credit Card
+476,495,2024-06-06,248.32,Pending,Crypto
+477,436,2022-09-09,758.64,Delivered,Credit Card
+478,287,2024-12-15,794.83,Pending,PayPal
+479,187,2025-01-29,250.87,Shipped,Crypto
+480,37,2022-09-05,275.35,Cancelled,Credit Card
+481,197,2022-03-28,369.11,Pending,Bank Transfer
+482,18,2023-06-24,894.21,Delivered,Crypto
+483,302,2024-02-18,87.71,Pending,Credit Card
+484,292,2024-02-05,684.18,Delivered,Credit Card
+485,454,2024-02-16,459.69,Cancelled,Crypto
+486,237,2024-11-09,376.11,Cancelled,Crypto
+487,132,2024-01-20,886.55,Pending,Bank Transfer
+488,101,2024-03-01,71.58,Pending,Bank Transfer
+489,362,2023-06-03,438.09,Delivered,PayPal
+490,284,2023-06-20,184.59,Delivered,Crypto
+491,330,2023-07-18,676.11,Pending,Crypto
+492,51,2024-03-04,761.74,Cancelled,PayPal
+493,37,2025-01-17,703.12,Shipped,Crypto
+494,57,2023-06-30,52.29,Shipped,Crypto
+495,263,2023-06-29,544.6,Delivered,Credit Card
+496,213,2022-12-14,476.61,Delivered,PayPal
+497,322,2024-07-04,327.16,Shipped,PayPal
+498,473,2023-08-20,581.63,Delivered,Bank Transfer
+499,363,2023-04-18,602.19,Cancelled,Bank Transfer
+500,127,2024-01-09,753.69,Pending,Credit Card
+501,138,2022-09-14,924.63,Delivered,Bank Transfer
+502,343,2024-09-21,493.46,Shipped,Credit Card
+503,245,2022-09-14,170.5,Shipped,Crypto
+504,405,2022-12-21,812.57,Pending,Bank Transfer
+505,77,2022-08-01,967.54,Pending,Bank Transfer
+506,5,2022-10-04,354.73,Delivered,Bank Transfer
+507,455,2023-03-16,211.47,Cancelled,PayPal
+508,81,2025-01-05,228.53,Delivered,PayPal
+509,36,2024-10-11,810.58,Pending,PayPal
+510,424,2023-12-03,191.72,Shipped,Crypto
+511,453,2024-10-17,225.95,Shipped,Credit Card
+512,251,2024-03-11,421.13,Cancelled,Bank Transfer
+513,83,2023-03-02,117.59,Shipped,Bank Transfer
+514,422,2024-09-12,330.02,Cancelled,Credit Card
+515,29,2024-04-10,763.2,Cancelled,Bank Transfer
+516,13,2024-02-19,956.1,Shipped,Crypto
+517,202,2023-05-18,864.14,Pending,Crypto
+518,114,2022-07-03,980.72,Cancelled,Bank Transfer
+519,456,2022-10-22,59.32,Shipped,Credit Card
+520,273,2023-06-08,95.2,Shipped,Crypto
+521,149,2022-06-30,321.3,Cancelled,Credit Card
+522,82,2024-08-21,109.95,Shipped,PayPal
+523,338,2025-01-19,664.49,Shipped,Credit Card
+524,432,2022-11-16,163.79,Delivered,Credit Card
+525,48,2024-11-25,403.53,Pending,Bank Transfer
+526,404,2024-09-08,720.47,Delivered,Credit Card
+527,50,2023-11-24,281.74,Cancelled,PayPal
+528,218,2022-03-12,589.37,Shipped,PayPal
+529,106,2023-02-17,839.78,Cancelled,PayPal
+530,123,2024-06-29,812.74,Cancelled,Credit Card
+531,235,2022-12-16,89.53,Pending,Bank Transfer
+532,492,2024-07-02,930.78,Cancelled,Bank Transfer
+533,335,2023-04-09,532.81,Cancelled,Credit Card
+534,438,2024-08-09,278.33,Cancelled,Bank Transfer
+535,252,2023-01-03,108.3,Shipped,PayPal
+536,226,2022-04-10,289.78,Delivered,PayPal
+537,211,2022-06-23,213.07,Delivered,Bank Transfer
+538,144,2024-08-26,893.82,Shipped,Credit Card
+539,224,2024-07-03,166.98,Pending,Credit Card
+540,178,2022-07-08,172.98,Delivered,Bank Transfer
+541,433,2023-06-04,114.67,Shipped,Crypto
+542,103,2023-11-13,206.57,Cancelled,Crypto
+543,438,2024-07-25,284.84,Shipped,Crypto
+544,405,2024-08-29,87.81,Shipped,Bank Transfer
+545,47,2024-12-12,654.4,Shipped,Crypto
+546,110,2024-07-29,193.28,Pending,PayPal
+547,368,2022-03-01,937.67,Delivered,Bank Transfer
+548,269,2022-06-30,895.8,Cancelled,PayPal
+549,464,2022-02-21,221.11,Pending,Bank Transfer
+550,422,2022-12-22,919.28,Cancelled,Bank Transfer
+551,297,2023-12-14,903.05,Shipped,Credit Card
+552,228,2024-04-15,439.14,Shipped,Bank Transfer
+553,344,2022-05-27,733.79,Cancelled,Crypto
+554,215,2022-12-18,882.96,Pending,PayPal
+555,368,2023-03-04,769.86,Shipped,Bank Transfer
+556,156,2022-06-14,58.38,Delivered,Crypto
+557,47,2024-05-06,612.9,Cancelled,Credit Card
+558,68,2023-11-02,633.8,Cancelled,Credit Card
+559,136,2022-09-06,72.1,Shipped,Credit Card
+560,201,2023-01-05,912.93,Delivered,Bank Transfer
+561,18,2022-07-29,354.78,Pending,Bank Transfer
+562,118,2024-09-29,902.74,Cancelled,Crypto
+563,492,2023-01-02,687.04,Delivered,Crypto
+564,178,2024-06-05,515.72,Pending,PayPal
+565,270,2024-11-15,677.07,Cancelled,PayPal
+566,445,2023-09-30,190.54,Shipped,Credit Card
+567,150,2022-08-19,50.38,Cancelled,Credit Card
+568,270,2025-01-08,586.16,Pending,PayPal
+569,162,2023-01-11,36.81,Delivered,Credit Card
+570,203,2024-08-12,581.4,Pending,Credit Card
+571,33,2022-08-10,991.84,Shipped,Credit Card
+572,45,2023-12-08,682.18,Pending,Bank Transfer
+573,66,2025-01-22,103.24,Pending,Bank Transfer
+574,191,2024-06-28,898.33,Shipped,PayPal
+575,237,2023-10-18,786.5,Shipped,PayPal
+576,188,2024-02-11,742.18,Delivered,Bank Transfer
+577,95,2023-06-26,946.49,Cancelled,Crypto
+578,495,2024-07-19,834.35,Pending,PayPal
+579,443,2022-10-03,578.04,Delivered,Credit Card
+580,444,2023-06-12,587.53,Cancelled,Bank Transfer
+581,484,2022-03-05,958.82,Shipped,Bank Transfer
+582,7,2023-01-13,239.88,Shipped,Crypto
+583,452,2024-02-07,156.51,Cancelled,PayPal
+584,440,2024-12-04,347.47,Delivered,Crypto
+585,264,2024-06-23,680.19,Shipped,Crypto
+586,355,2022-05-08,756.89,Cancelled,PayPal
+587,229,2022-08-07,873.29,Pending,PayPal
+588,30,2023-11-26,730.85,Pending,Bank Transfer
+589,378,2024-12-21,997.3,Cancelled,Bank Transfer
+590,135,2022-02-24,472.16,Cancelled,Crypto
+591,484,2023-01-01,180.59,Pending,PayPal
+592,382,2024-07-30,405.36,Shipped,Bank Transfer
+593,145,2024-04-12,298.82,Cancelled,PayPal
+594,382,2023-08-20,258.22,Cancelled,PayPal
+595,468,2023-03-02,57.55,Cancelled,Bank Transfer
+596,242,2023-09-27,589.4,Pending,PayPal
+597,342,2023-01-12,779.7,Shipped,Crypto
+598,191,2023-05-17,161.43,Cancelled,Crypto
+599,228,2022-03-08,720.31,Cancelled,Crypto
+600,476,2022-10-22,189.38,Shipped,PayPal
+601,278,2024-11-10,809.05,Pending,Bank Transfer
+602,227,2022-11-26,226.25,Delivered,Bank Transfer
+603,305,2023-07-04,783.49,Pending,Crypto
+604,12,2023-12-31,467.65,Pending,Crypto
+605,247,2022-02-21,460.26,Cancelled,PayPal
+606,468,2023-01-12,628.29,Cancelled,Crypto
+607,225,2024-02-09,387.26,Cancelled,Bank Transfer
+608,22,2023-03-31,569.09,Pending,Bank Transfer
+609,450,2023-06-22,925.58,Shipped,PayPal
+610,323,2023-06-24,296.36,Cancelled,Crypto
+611,20,2022-03-04,383.27,Shipped,Bank Transfer
+612,474,2023-12-24,739.58,Shipped,Credit Card
+613,313,2023-04-19,557.36,Pending,Bank Transfer
+614,39,2024-09-25,237.39,Pending,Bank Transfer
+615,162,2022-03-17,650.12,Cancelled,Crypto
+616,228,2025-02-02,517.88,Delivered,Crypto
+617,264,2023-12-09,595.96,Cancelled,Credit Card
+618,212,2022-06-19,64.49,Pending,PayPal
+619,243,2022-02-15,971.45,Delivered,Crypto
+620,291,2022-03-27,806.57,Delivered,Crypto
+621,346,2023-07-19,588.2,Delivered,Crypto
+622,12,2022-02-14,306.19,Pending,PayPal
+623,227,2022-05-23,260.41,Delivered,Credit Card
+624,465,2024-10-27,610.31,Delivered,Crypto
+625,87,2023-11-22,433.71,Pending,PayPal
+626,83,2024-06-10,243.21,Cancelled,Credit Card
+627,428,2025-01-08,215.53,Pending,Credit Card
+628,315,2022-11-06,172.9,Shipped,PayPal
+629,297,2022-04-15,838.42,Cancelled,Credit Card
+630,24,2025-01-13,121.64,Delivered,Crypto
+631,391,2024-07-16,981.25,Delivered,Crypto
+632,336,2023-04-06,425.0,Shipped,Crypto
+633,268,2022-04-11,801.08,Pending,Crypto
+634,350,2023-02-06,832.74,Pending,Bank Transfer
+635,264,2024-04-15,241.29,Pending,Crypto
+636,131,2022-10-21,720.41,Delivered,Credit Card
+637,51,2023-12-07,444.18,Delivered,Credit Card
+638,227,2023-06-24,748.71,Cancelled,Credit Card
+639,424,2024-10-30,941.05,Shipped,Credit Card
+640,18,2023-10-24,649.03,Delivered,Crypto
+641,192,2024-07-27,928.99,Pending,Crypto
+642,78,2023-11-07,381.67,Delivered,Credit Card
+643,288,2024-10-01,58.95,Shipped,Crypto
+644,169,2024-07-02,743.7,Cancelled,Crypto
+645,171,2022-04-07,233.81,Delivered,Credit Card
+646,271,2024-03-09,762.48,Pending,Credit Card
+647,332,2024-05-13,191.71,Delivered,Bank Transfer
+648,427,2023-03-10,653.06,Delivered,PayPal
+649,437,2023-01-26,703.99,Delivered,Crypto
+650,284,2024-11-14,454.37,Cancelled,Credit Card
+651,271,2024-10-16,893.9,Cancelled,Credit Card
+652,114,2022-03-22,188.83,Shipped,PayPal
+653,301,2022-11-19,215.91,Delivered,Credit Card
+654,448,2023-03-05,284.74,Shipped,Bank Transfer
+655,57,2022-03-27,736.59,Delivered,PayPal
+656,345,2022-11-29,625.04,Pending,Bank Transfer
+657,466,2022-07-17,64.72,Pending,Credit Card
+658,489,2024-03-28,145.22,Pending,PayPal
+659,141,2023-08-22,364.04,Pending,Bank Transfer
+660,200,2023-08-08,990.23,Shipped,Credit Card
+661,267,2022-07-14,859.71,Cancelled,Bank Transfer
+662,432,2022-12-01,533.8,Cancelled,Crypto
+663,7,2022-07-04,798.09,Cancelled,PayPal
+664,35,2025-01-20,806.46,Shipped,PayPal
+665,5,2022-11-25,296.41,Shipped,Crypto
+666,164,2024-10-01,220.79,Delivered,Credit Card
+667,278,2022-08-04,617.98,Pending,Credit Card
+668,149,2022-05-30,704.02,Pending,Credit Card
+669,55,2023-04-06,29.68,Delivered,Crypto
+670,49,2023-03-02,513.44,Delivered,PayPal
+671,470,2024-10-14,286.95,Shipped,PayPal
+672,97,2023-11-26,71.72,Cancelled,PayPal
+673,305,2023-07-27,133.68,Shipped,Credit Card
+674,366,2024-09-07,913.47,Delivered,PayPal
+675,317,2023-11-26,855.85,Delivered,Credit Card
+676,179,2024-02-15,45.34,Delivered,Credit Card
+677,30,2023-03-07,364.36,Pending,Bank Transfer
+678,7,2023-03-16,313.73,Delivered,Credit Card
+679,110,2022-03-07,570.29,Cancelled,Credit Card
+680,126,2023-02-03,368.5,Cancelled,Crypto
+681,131,2022-03-07,980.34,Cancelled,PayPal
+682,191,2023-09-23,524.75,Cancelled,PayPal
+683,313,2023-07-11,690.74,Delivered,Bank Transfer
+684,443,2023-09-02,116.32,Delivered,PayPal
+685,392,2024-08-21,47.49,Shipped,Credit Card
+686,186,2023-12-24,253.68,Cancelled,Credit Card
+687,243,2022-08-22,159.36,Pending,Crypto
+688,78,2023-03-16,925.54,Pending,Crypto
+689,189,2022-07-11,226.11,Shipped,Credit Card
+690,8,2023-02-07,281.87,Shipped,Credit Card
+691,244,2024-02-08,983.6,Pending,Crypto
+692,321,2022-12-09,270.12,Cancelled,Credit Card
+693,38,2023-09-16,960.03,Shipped,Credit Card
+694,470,2023-12-01,42.78,Cancelled,Crypto
+695,436,2022-09-15,136.11,Shipped,Crypto
+696,45,2022-09-05,987.81,Shipped,Crypto
+697,211,2024-02-16,338.31,Shipped,Crypto
+698,147,2024-09-21,555.42,Delivered,Crypto
+699,97,2024-04-15,54.67,Delivered,PayPal
+700,4,2023-01-26,864.11,Cancelled,Crypto
+701,427,2023-07-14,576.41,Shipped,Bank Transfer
+702,316,2022-04-15,414.01,Delivered,Crypto
+703,358,2023-05-13,846.41,Cancelled,Crypto
+704,299,2024-10-16,220.82,Cancelled,Crypto
+705,168,2022-09-19,350.53,Shipped,Crypto
+706,283,2023-07-13,582.16,Pending,PayPal
+707,388,2023-11-04,105.07,Cancelled,Credit Card
+708,461,2024-01-26,914.59,Shipped,PayPal
+709,348,2024-06-08,814.22,Pending,Credit Card
+710,160,2022-11-06,662.78,Shipped,Bank Transfer
+711,479,2022-03-19,59.6,Delivered,Bank Transfer
+712,137,2024-07-12,683.48,Pending,Crypto
+713,67,2022-11-04,871.88,Delivered,Crypto
+714,211,2024-01-18,859.99,Pending,PayPal
+715,279,2022-12-17,625.09,Shipped,PayPal
+716,230,2025-01-15,748.42,Cancelled,Bank Transfer
+717,355,2023-05-10,146.2,Pending,Credit Card
+718,81,2023-08-25,588.02,Pending,Credit Card
+719,313,2022-06-05,728.45,Delivered,Credit Card
+720,194,2022-12-04,593.23,Shipped,Crypto
+721,438,2022-07-11,642.13,Shipped,PayPal
+722,452,2022-09-05,662.33,Shipped,Bank Transfer
+723,447,2022-09-20,527.01,Shipped,Crypto
+724,449,2022-10-10,917.69,Cancelled,PayPal
+725,136,2022-08-24,677.76,Pending,Crypto
+726,341,2024-04-29,563.17,Pending,PayPal
+727,261,2023-08-17,336.32,Cancelled,Credit Card
+728,312,2024-11-20,150.2,Cancelled,Crypto
+729,195,2025-02-12,211.88,Cancelled,Credit Card
+730,10,2023-12-11,448.47,Cancelled,Credit Card
+731,10,2023-05-27,169.54,Pending,Credit Card
+732,88,2022-03-30,230.13,Pending,Crypto
+733,465,2024-09-06,604.78,Cancelled,Crypto
+734,6,2022-05-31,514.53,Shipped,Crypto
+735,248,2024-01-27,231.17,Delivered,Crypto
+736,326,2024-10-24,367.07,Delivered,Bank Transfer
+737,222,2022-09-06,876.29,Cancelled,Crypto
+738,45,2025-01-24,585.13,Shipped,PayPal
+739,47,2024-03-10,39.41,Shipped,PayPal
+740,413,2024-12-18,253.59,Delivered,Crypto
+741,445,2025-01-16,844.86,Shipped,Crypto
+742,484,2022-05-15,501.96,Delivered,Crypto
+743,158,2022-11-13,236.7,Pending,Crypto
+744,20,2022-05-05,289.42,Delivered,Credit Card
+745,456,2022-10-09,433.15,Pending,PayPal
+746,436,2023-11-18,657.23,Pending,Credit Card
+747,3,2024-02-17,162.18,Cancelled,Crypto
+748,492,2023-05-13,304.68,Delivered,PayPal
+749,426,2022-04-28,58.58,Delivered,PayPal
+750,37,2024-04-02,508.36,Shipped,Bank Transfer
+751,31,2024-04-01,46.7,Delivered,Bank Transfer
+752,38,2023-11-26,976.77,Cancelled,PayPal
+753,178,2024-10-13,652.46,Cancelled,Bank Transfer
+754,480,2022-03-07,643.58,Cancelled,Bank Transfer
+755,179,2024-11-03,755.07,Cancelled,Credit Card
+756,220,2022-12-07,925.7,Pending,Crypto
+757,75,2022-08-01,753.68,Shipped,Credit Card
+758,221,2024-08-10,243.04,Cancelled,Crypto
+759,205,2023-09-28,37.41,Delivered,Crypto
+760,413,2024-01-07,388.38,Delivered,Credit Card
+761,87,2024-09-08,550.76,Shipped,Crypto
+762,25,2024-09-21,831.02,Pending,Crypto
+763,130,2022-07-22,213.08,Shipped,Bank Transfer
+764,297,2022-11-11,147.42,Shipped,PayPal
+765,22,2022-08-25,761.31,Shipped,Credit Card
+766,231,2022-03-20,478.21,Shipped,Crypto
+767,327,2022-08-04,59.62,Pending,PayPal
+768,329,2024-04-15,311.67,Pending,Credit Card
+769,408,2024-08-08,10.32,Delivered,Bank Transfer
+770,490,2023-01-13,42.78,Shipped,Credit Card
+771,96,2022-06-22,850.89,Shipped,Bank Transfer
+772,476,2024-11-01,931.67,Pending,Credit Card
+773,244,2024-07-30,179.14,Cancelled,Crypto
+774,22,2023-05-13,609.88,Cancelled,Bank Transfer
+775,446,2024-01-31,926.5,Shipped,PayPal
+776,377,2024-04-25,698.95,Cancelled,Crypto
+777,134,2023-06-21,523.49,Shipped,Crypto
+778,45,2022-09-12,828.96,Shipped,Crypto
+779,372,2022-09-28,772.08,Cancelled,Credit Card
+780,214,2022-09-14,211.87,Pending,Credit Card
+781,207,2023-12-19,80.01,Shipped,Bank Transfer
+782,68,2022-04-02,479.24,Shipped,Bank Transfer
+783,40,2022-12-22,122.65,Cancelled,Crypto
+784,165,2024-03-31,630.18,Pending,Credit Card
+785,236,2023-11-03,332.21,Delivered,Crypto
+786,75,2024-05-31,654.65,Cancelled,Bank Transfer
+787,283,2023-12-10,194.33,Pending,PayPal
+788,324,2024-02-11,496.37,Shipped,Bank Transfer
+789,201,2023-11-22,919.93,Cancelled,PayPal
+790,229,2023-10-31,833.21,Delivered,Bank Transfer
+791,72,2024-12-09,537.9,Cancelled,PayPal
+792,316,2023-12-09,190.07,Pending,Crypto
+793,161,2022-11-19,221.48,Pending,Credit Card
+794,395,2022-08-15,723.27,Shipped,Credit Card
+795,493,2023-01-02,144.02,Shipped,Crypto
+796,10,2024-03-20,527.45,Shipped,Crypto
+797,133,2025-01-18,115.75,Pending,Crypto
+798,35,2022-05-21,690.88,Cancelled,PayPal
+799,237,2022-02-16,348.89,Shipped,Credit Card
+800,159,2023-10-14,543.45,Cancelled,Credit Card
+801,396,2022-02-16,374.39,Delivered,Bank Transfer
+802,440,2023-07-28,505.33,Shipped,Bank Transfer
+803,120,2022-08-03,558.54,Shipped,Crypto
+804,317,2022-09-06,466.66,Shipped,Credit Card
+805,447,2023-02-25,420.02,Shipped,Credit Card
+806,287,2023-09-01,224.34,Shipped,Credit Card
+807,252,2024-09-14,219.67,Shipped,Crypto
+808,186,2024-05-04,400.12,Pending,Bank Transfer
+809,22,2024-06-27,768.36,Delivered,Bank Transfer
+810,90,2022-07-12,70.0,Delivered,PayPal
+811,382,2022-06-30,162.12,Delivered,PayPal
+812,188,2024-03-14,651.27,Shipped,PayPal
+813,4,2023-07-23,40.88,Cancelled,PayPal
+814,447,2024-05-08,388.37,Cancelled,Credit Card
+815,92,2022-12-15,919.08,Shipped,Crypto
+816,494,2022-06-05,110.84,Delivered,PayPal
+817,482,2023-07-16,527.44,Pending,PayPal
+818,310,2023-07-24,717.06,Delivered,Credit Card
+819,21,2022-12-12,401.57,Delivered,PayPal
+820,311,2023-05-08,936.18,Pending,Credit Card
+821,134,2024-08-16,596.9,Pending,Bank Transfer
+822,109,2024-03-11,562.42,Pending,PayPal
+823,268,2022-08-07,179.15,Delivered,PayPal
+824,99,2022-05-21,349.48,Pending,Credit Card
+825,182,2023-01-25,781.89,Cancelled,Bank Transfer
+826,37,2024-09-01,596.15,Pending,Credit Card
+827,290,2022-03-12,228.05,Pending,Crypto
+828,467,2023-03-12,584.52,Shipped,Bank Transfer
+829,222,2022-05-15,226.41,Shipped,PayPal
+830,119,2023-02-17,659.09,Shipped,Crypto
+831,351,2024-12-16,21.82,Pending,Bank Transfer
+832,493,2022-04-18,861.92,Delivered,PayPal
+833,416,2023-03-09,452.82,Delivered,Bank Transfer
+834,106,2023-02-16,785.72,Delivered,Bank Transfer
+835,435,2022-04-09,358.55,Cancelled,PayPal
+836,485,2024-06-26,703.56,Delivered,Crypto
+837,279,2022-03-29,824.7,Shipped,Bank Transfer
+838,127,2023-03-31,407.73,Cancelled,Bank Transfer
+839,53,2024-04-17,458.97,Pending,Bank Transfer
+840,366,2024-07-05,411.28,Pending,Crypto
+841,149,2023-03-06,121.44,Shipped,Bank Transfer
+842,283,2023-05-29,334.38,Delivered,Credit Card
+843,464,2024-02-11,95.48,Pending,Bank Transfer
+844,74,2024-08-25,708.02,Pending,Bank Transfer
+845,465,2023-06-16,193.26,Cancelled,Credit Card
+846,402,2024-09-26,820.52,Cancelled,Credit Card
+847,95,2023-01-10,588.33,Cancelled,Crypto
+848,125,2024-05-11,310.35,Shipped,Bank Transfer
+849,188,2024-10-31,572.21,Shipped,PayPal
+850,156,2023-06-28,962.15,Delivered,Credit Card
+851,125,2024-02-17,384.31,Cancelled,Bank Transfer
+852,323,2022-03-29,92.64,Pending,PayPal
+853,61,2023-12-22,999.31,Pending,Crypto
+854,279,2022-07-25,430.21,Delivered,PayPal
+855,336,2023-05-07,632.98,Delivered,Bank Transfer
+856,354,2024-11-03,905.0,Delivered,Crypto
+857,301,2024-04-07,794.87,Shipped,Crypto
+858,293,2023-04-06,682.82,Delivered,Crypto
+859,118,2023-10-18,765.09,Delivered,Credit Card
+860,267,2022-06-22,661.64,Shipped,Crypto
+861,185,2023-02-24,586.44,Pending,Credit Card
+862,62,2024-07-07,299.28,Shipped,Credit Card
+863,298,2022-10-26,110.29,Pending,Crypto
+864,397,2024-09-05,313.86,Cancelled,Crypto
+865,172,2022-02-19,530.68,Cancelled,PayPal
+866,102,2023-08-20,388.06,Delivered,Crypto
+867,426,2023-07-26,474.12,Shipped,Credit Card
+868,146,2022-02-14,838.97,Delivered,PayPal
+869,479,2023-04-12,806.26,Shipped,PayPal
+870,284,2023-08-21,25.66,Cancelled,Credit Card
+871,32,2022-12-23,630.1,Pending,Credit Card
+872,333,2022-09-08,444.14,Shipped,PayPal
+873,392,2024-06-16,28.79,Cancelled,Bank Transfer
+874,440,2023-03-29,503.22,Pending,Credit Card
+875,252,2023-10-14,375.33,Pending,PayPal
+876,240,2024-03-06,757.43,Pending,Credit Card
+877,488,2023-02-19,734.35,Delivered,Bank Transfer
+878,316,2024-09-30,417.82,Cancelled,Bank Transfer
+879,383,2024-01-13,537.61,Pending,Bank Transfer
+880,256,2022-12-04,491.94,Delivered,Credit Card
+881,286,2023-09-10,889.25,Cancelled,Bank Transfer
+882,206,2024-05-26,339.92,Delivered,Crypto
+883,6,2022-04-15,38.62,Shipped,Bank Transfer
+884,336,2022-12-04,765.72,Shipped,PayPal
+885,303,2024-06-17,958.16,Shipped,Bank Transfer
+886,178,2023-02-13,578.08,Delivered,PayPal
+887,186,2024-04-07,625.42,Delivered,Crypto
+888,371,2022-10-27,175.33,Shipped,Credit Card
+889,234,2023-01-30,186.54,Cancelled,Credit Card
+890,13,2022-12-17,263.52,Delivered,Bank Transfer
+891,450,2023-12-14,113.89,Shipped,Credit Card
+892,423,2024-09-17,173.37,Shipped,Crypto
+893,83,2024-05-04,331.66,Delivered,Credit Card
+894,9,2024-03-30,611.96,Pending,Bank Transfer
+895,57,2022-03-25,742.73,Delivered,Credit Card
+896,263,2023-09-01,357.66,Delivered,Crypto
+897,378,2022-10-05,905.34,Delivered,Credit Card
+898,168,2024-08-25,764.21,Cancelled,PayPal
+899,345,2024-02-17,908.89,Delivered,PayPal
+900,392,2024-08-28,13.62,Cancelled,Credit Card
+901,257,2022-10-28,113.72,Shipped,Crypto
+902,7,2024-08-11,318.59,Cancelled,Crypto
+903,20,2023-08-24,803.04,Delivered,Crypto
+904,132,2024-05-23,266.94,Pending,Credit Card
+905,162,2024-06-03,63.84,Shipped,Bank Transfer
+906,456,2024-12-16,842.67,Pending,PayPal
+907,356,2023-12-18,879.39,Cancelled,Credit Card
+908,2,2023-01-31,780.06,Shipped,PayPal
+909,475,2022-03-03,592.92,Pending,Crypto
+910,150,2023-07-08,649.0,Pending,Bank Transfer
+911,225,2024-12-14,323.67,Pending,PayPal
+912,331,2024-08-01,283.31,Shipped,Bank Transfer
+913,115,2023-12-25,996.41,Delivered,Crypto
+914,248,2023-12-09,945.46,Shipped,Bank Transfer
+915,383,2022-04-16,426.68,Pending,Credit Card
+916,237,2024-01-24,68.84,Delivered,PayPal
+917,456,2024-08-05,863.24,Delivered,Bank Transfer
+918,154,2024-02-16,353.57,Cancelled,PayPal
+919,17,2022-05-24,688.52,Pending,Crypto
+920,94,2023-11-15,338.31,Cancelled,Credit Card
+921,194,2024-10-24,94.86,Shipped,Crypto
+922,496,2022-12-17,618.81,Delivered,Bank Transfer
+923,211,2024-02-17,162.03,Pending,Credit Card
+924,391,2023-09-04,847.66,Pending,Crypto
+925,339,2025-01-20,104.29,Delivered,PayPal
+926,119,2024-02-11,121.43,Delivered,Bank Transfer
+927,42,2022-07-30,374.91,Shipped,Credit Card
+928,398,2023-09-25,930.7,Delivered,Crypto
+929,467,2022-11-03,839.33,Pending,Credit Card
+930,411,2024-04-06,296.25,Shipped,Bank Transfer
+931,73,2024-07-28,303.98,Delivered,PayPal
+932,382,2024-06-27,188.18,Pending,Bank Transfer
+933,136,2023-05-19,268.8,Delivered,Crypto
+934,257,2023-08-16,146.44,Shipped,PayPal
+935,322,2024-04-17,640.75,Cancelled,Bank Transfer
+936,36,2024-05-21,872.22,Pending,PayPal
+937,451,2023-09-08,55.21,Pending,Bank Transfer
+938,4,2023-12-07,19.01,Pending,PayPal
+939,459,2024-03-11,242.35,Shipped,Crypto
+940,213,2022-09-02,261.72,Shipped,PayPal
+941,299,2022-09-12,195.48,Cancelled,Bank Transfer
+942,473,2024-02-12,784.01,Pending,Crypto
+943,128,2022-03-11,842.35,Pending,Bank Transfer
+944,227,2022-03-12,414.2,Cancelled,Crypto
+945,201,2024-10-04,113.2,Shipped,PayPal
+946,265,2023-10-10,350.69,Delivered,Credit Card
+947,45,2023-03-27,932.82,Pending,Credit Card
+948,286,2023-12-06,567.99,Delivered,PayPal
+949,395,2023-05-19,525.17,Pending,PayPal
+950,213,2024-03-19,526.84,Cancelled,PayPal
+951,61,2024-04-06,758.25,Pending,Crypto
+952,278,2024-09-24,303.3,Cancelled,Crypto
+953,27,2024-12-13,17.95,Pending,Credit Card
+954,441,2024-12-06,697.13,Pending,Crypto
+955,28,2024-10-27,109.55,Pending,Bank Transfer
+956,99,2023-11-03,774.68,Pending,Credit Card
+957,324,2024-11-06,616.06,Delivered,Crypto
+958,43,2024-03-13,309.33,Cancelled,Crypto
+959,500,2022-04-26,551.27,Shipped,Bank Transfer
+960,182,2025-02-12,417.38,Pending,Bank Transfer
+961,439,2024-01-17,731.34,Shipped,Bank Transfer
+962,382,2022-11-25,620.71,Cancelled,PayPal
+963,118,2023-03-25,583.37,Pending,Bank Transfer
+964,410,2023-12-01,129.54,Pending,Bank Transfer
+965,34,2022-07-28,478.96,Delivered,Crypto
+966,150,2025-02-12,355.09,Shipped,Bank Transfer
+967,315,2023-03-21,96.52,Delivered,Bank Transfer
+968,431,2022-08-03,393.24,Cancelled,Bank Transfer
+969,347,2023-04-28,645.86,Shipped,Crypto
+970,259,2022-06-21,413.66,Pending,PayPal
+971,288,2022-07-06,973.48,Pending,Credit Card
+972,466,2022-08-03,647.23,Pending,Credit Card
+973,485,2024-03-18,968.57,Delivered,Crypto
+974,72,2024-03-01,745.74,Delivered,PayPal
+975,233,2023-02-27,869.54,Pending,Bank Transfer
+976,128,2024-12-21,856.76,Shipped,Credit Card
+977,246,2022-11-25,271.71,Pending,Credit Card
+978,406,2022-04-09,812.67,Pending,PayPal
+979,470,2024-08-24,130.23,Delivered,Credit Card
+980,438,2022-11-11,910.7,Pending,Bank Transfer
+981,8,2022-12-10,38.79,Pending,Crypto
+982,452,2024-02-15,808.89,Shipped,Crypto
+983,179,2022-09-20,171.04,Pending,Credit Card
+984,315,2022-09-23,830.2,Cancelled,Bank Transfer
+985,132,2023-11-02,208.76,Shipped,Bank Transfer
+986,13,2023-09-13,578.9,Pending,Bank Transfer
+987,309,2023-01-10,228.39,Delivered,Credit Card
+988,327,2024-09-25,806.99,Cancelled,Crypto
+989,62,2023-09-08,274.13,Cancelled,Crypto
+990,10,2024-02-15,13.83,Shipped,Credit Card
+991,447,2023-05-19,920.48,Delivered,PayPal
+992,166,2022-08-01,835.94,Pending,Crypto
+993,424,2022-07-02,341.66,Shipped,Bank Transfer
+994,380,2024-11-06,810.26,Pending,Bank Transfer
+995,431,2023-11-19,652.7,Cancelled,Crypto
+996,298,2024-08-31,958.03,Shipped,Crypto
+997,452,2024-03-03,128.12,Pending,Bank Transfer
+998,254,2022-02-20,801.35,Pending,PayPal
+999,368,2023-04-15,799.26,Shipped,Credit Card
+1000,242,2024-11-22,986.21,Cancelled,PayPal
+21,221,2023-05-24,895.56,Delivered,Bank Transfer
+22,228,2023-08-19,828.34,Pending,Bank Transfer

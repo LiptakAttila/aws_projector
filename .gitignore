@@ -1,0 +1,11 @@
+/downloaded/__init__.py
+/src/aws/lambda/__init__.py
+/src/__init__.py
+/.venv/
+/.env
+/.idea/
+/downloaded/
+/raw/__init__.py
+/src/aws/__init__.py
+src/__pycache__/
+src/aws/__pycache__/
